@@ -1,0 +1,12 @@
+ATIVIDADES DE FIXAÇÃO- CIÊNCIAS DA COMPUTAÇÃO UNA. - joão Pedro.
+EXERCICIO um 
+-Um fazendeiro precisa levar um lobo, uma cabra e um maço de couve para o outro lado do rio. Ele tem um barco que só permite levar ele e mais um item.-
+
+o algoritimo( 1: pegue cabra 2: leve cabra p. margem2 3: volte sozinho 4:pegue couve 5: leve couve para margem 2 6:pegue ovelha e coloque no lugar do couve no barco 7:leve cabra de volta 8: pegue lobo e coloque no lugar da cabra no barco 9: atravesse lobo pra margem2 10:deixe lobo com couve 11: volte sozinho 12: pegue cabra 13: leve cabra para margem2)
+
+EXERCÍCIO dois
+-Você decidiu comprar o novo iPhone 17 na Amazon, mas precisa garantir que a compra seja segura, econômica e bem-sucedida.
+o algoritimo(  1: abra banco 2:descubra valor guardado 3: guarde esta informação 4: abra google 5:pesquise "iphone 17" 6: va em "shopping" 7: pesquise vendedor amazona oficial 8: preços devem ser "compatíveis com o orçamento" 9:compare preços entre frete grátis e frete pago.  10: caso frete pago seja mais barato, compre por ele 11:caso frete pago seja seja escolhido calcule prazo de entrega.)
+
+EXERCÍCIO três
+o algoritimo(1: abra google 2: pesquise por "Estação de Metrô Novo Eldorado" 3: va em "maps" 4:observe distância 5: se distância < 1km vá apé. 6:se distância > 1km vâ de ônibus 7: se distância > 1km "e" estiver chovendo usar transporte via aplicativo 8: ao chegar encerre algoritimo."
